@@ -1,0 +1,25 @@
+/* Customizer CSS */
+.customize-control {
+	position: relative;
+	margin-bottom: 0;
+	padding: 8px 15px;
+	background: #fff;
+	box-sizing: border-box;
+}
+
+#customize-theme-controls .customize-pane-child.accordion-section-content {
+	padding: 10px;
+}
+
+
+.customize-pane-child li,
+.customize-control-nav_menu{
+    margin-bottom:15px;
+}
+#sub-accordion-panel-widgets li,
+#sub-accordion-panel-opus_blog_panel li,
+#customize-control-blogname,
+#customize-control-blogdescription,
+#customize-control-custom_logo{
+	margin: 0;
+}
