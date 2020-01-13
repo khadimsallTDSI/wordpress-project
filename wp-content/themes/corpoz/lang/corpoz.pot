@@ -1,0 +1,361 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Blank WordPress Pot "
+"v1.0.0\n"
+"POT-Creation-Date: "
+"2019-02-20 11:12+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example."
+"com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"2.1.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "We Are Sorry..."
+msgstr ""
+
+#: 404.php:18
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:19
+msgid "Back To Home"
+msgstr ""
+
+#: archive.php:38
+#: index.php:42
+#: search.php:55
+msgid "&lt;"
+msgstr ""
+
+#: archive.php:39
+#: index.php:43
+#: search.php:56
+msgid "&gt;"
+msgstr ""
+
+#: class-wp-bootstrap-navwalker.php:368
+msgid "Add a menu"
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgid ""
+"One thought on &ldquo;"
+"%s&rdquo;"
+msgstr ""
+
+#: comments.php:39
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural ""
+"%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:72
+msgid ""
+"Comments are closed."
+msgstr ""
+
+#: content-parts/content-none.php:11
+msgid ""
+"Ready to publish your "
+"first post? Get started "
+"here."
+msgstr ""
+
+#: content-parts/content-none.php:15
+msgid ""
+"Sorry, but nothing "
+"matched your search "
+"terms. Please try again "
+"with some different "
+"keywords."
+msgstr ""
+
+#: content-parts/content-none.php:23
+msgid ""
+"It seems we can&rsquo;t "
+"find what you&rsquo;re "
+"looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-parts/content-single.php:16
+#: content-parts/content.php:17
+msgid "0 comment"
+msgstr ""
+
+#: content-parts/content-single.php:16
+#: content-parts/content.php:17
+msgid "1 comment"
+msgstr ""
+
+#: content-parts/content-single.php:16
+#: content-parts/content.php:17
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: content-parts/content.php:24
+#: section-parts/front-page-blogs.php:54
+msgid "Read More"
+msgstr ""
+
+#: customizer.php:23
+msgid "Show"
+msgstr ""
+
+#: customizer.php:24
+msgid "Hide"
+msgstr ""
+
+#: customizer.php:35
+msgid "2 Column Layout"
+msgstr ""
+
+#: customizer.php:36
+msgid "3 Column Layout"
+msgstr ""
+
+#: customizer.php:37
+msgid "4 Column Layout"
+msgstr ""
+
+#: customizer.php:93
+msgid "Corpoz Options"
+msgstr ""
+
+#: customizer.php:105
+msgid "Home Slider Section"
+msgstr ""
+
+#: customizer.php:126
+msgid "Slider Option"
+msgstr ""
+
+#: customizer.php:127
+msgid ""
+"Show/hide option for "
+"Slider Section."
+msgstr ""
+
+#: customizer.php:152
+msgid "Slider Page "
+msgstr ""
+
+#: customizer.php:169
+#: customizer.php:305
+msgid "Button - Text"
+msgstr ""
+
+#: customizer.php:185
+msgid "Button - URL"
+msgstr ""
+
+#: customizer.php:202
+msgid "Button - Text2"
+msgstr ""
+
+#: customizer.php:218
+msgid "Button - URL2"
+msgstr ""
+
+#: customizer.php:230
+msgid ""
+"Home About/Counter "
+"section"
+msgstr ""
+
+#: customizer.php:248
+msgid ""
+"Show/hide option for "
+"About Us Section."
+msgstr ""
+
+#: customizer.php:280
+msgid "Title"
+msgstr ""
+
+#: customizer.php:289
+msgid "About Page "
+msgstr ""
+
+#: customizer.php:320
+msgid "Button URL"
+msgstr ""
+
+#: customizer.php:331
+msgid ""
+"Home Testimonial Section"
+msgstr ""
+
+#: customizer.php:351
+msgid "Testimonial Option"
+msgstr ""
+
+#: customizer.php:352
+msgid ""
+"Show/hide option Section."
+msgstr ""
+
+#: customizer.php:372
+msgid "Testimonial Title"
+msgstr ""
+
+#: customizer.php:397
+msgid "Testimonial Page "
+msgstr ""
+
+#: customizer.php:413
+msgid "Position"
+msgstr ""
+
+#: customizer.php:427
+msgid "Home Blog Section"
+msgstr ""
+
+#: customizer.php:446
+msgid "Blog Option"
+msgstr ""
+
+#: customizer.php:447
+msgid ""
+"Show/hide option for "
+"Blog Section."
+msgstr ""
+
+#: customizer.php:464
+msgid "Blog Title"
+msgstr ""
+
+#: customizer.php:481
+msgid "Blog Sub Title"
+msgstr ""
+
+#: customizer.php:492
+msgid "Footer Section"
+msgstr ""
+
+#: customizer.php:508
+msgid "Footer Option"
+msgstr ""
+
+#: customizer.php:509
+msgid ""
+"Show/hide option for "
+"Footer Section."
+msgstr ""
+
+#: customizer.php:524
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:23
+#, php-format
+msgid ""
+" Theme: powered by:"
+"wordpress %1$sDesign By "
+"%2$s%3$s"
+msgstr ""
+
+#: footer.php:23
+msgid ""
+"https://profiles."
+"wordpress.org/themeslook/"
+msgstr ""
+
+#: footer.php:23
+msgid "themeslook"
+msgstr ""
+
+#: full-width.php:35
+#: page.php:32
+msgid "Pages: "
+msgstr ""
+
+#: functions.php:66
+msgid "primary Menu"
+msgstr ""
+
+#: functions.php:149
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:151
+msgid ""
+"Sidebar on the blog "
+"layout."
+msgstr ""
+
+#: functions.php:162
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:164
+msgid ""
+"The footer widget area"
+msgstr ""
+
+#: index.php:18
+msgid "blog"
+msgstr ""
+
+#: search.php:21
+#, php-format
+msgid ""
+"Search Results for: %s"
+msgstr ""
+
+#: search.php:28
+#, php-format
+msgid ""
+"Nothing Found for: %s"
+msgstr ""
+
+#: section-parts/front-page-slider.php:74
+msgid "Home"
+msgstr ""
